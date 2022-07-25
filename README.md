@@ -1,4 +1,11 @@
-# indian_company_sales_insights
-simple insights on an Indian company.
-db_dump is the company's database.
-The csv file is the table i extracted from the database because i can't connect directly to mysql server with the free version of tableau.
+# objective
+create a performance dashboard.
+# purpose
+to provide insights on revenue, number of sales, top 5 customers, top 5 markets, top 5 products, and company revenue trend.
+# steps
+query the database,
+transform the data,
+export the data to tableau public,
+create a dynamic dashboard.
+# skills required
+SQL, Tableau, Data_cleaning, relational_databases, data_visualization.
